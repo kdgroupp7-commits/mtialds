@@ -1,3 +1,0 @@
-AddType application/wasm .wasm
-AddType application/octet-stream .tflite .binarypb .data
-AddType application/manifest+json .webmanifest
